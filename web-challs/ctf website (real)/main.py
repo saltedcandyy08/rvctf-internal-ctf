@@ -1,4 +1,4 @@
-lask import Flask, render_template, request
+from flask import Flask, render_template, request
 import sqlite3
 import os
 
@@ -39,3 +39,4 @@ def login():
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
+
