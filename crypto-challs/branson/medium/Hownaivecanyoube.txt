@@ -1,0 +1,15 @@
+X: So...you did what to the plaintext??
+
+Y: Well I thought since encryption made something more secure, I could just encrypt the encrypted result to make something even more secure! Then, I thought, what if i encrypt the double encrypted plaintext, then did it again and again! In the end, i encrypted it a total of 5 times
+
+X: ...but you used encryption methods that could be brute-forced?
+
+Y: Yep! I only know my way around base64, hex, Base32 and Base 85 :p
+
+X: That does not really make it more secure...just more tedious to find
+
+Y: Well, can you find it?
+
+X: What is the resultant ciphertext?
+
+Y: N29fPEQ5aihZIzlncGcqOFBWbFo3bzskQDkzRmtkN2wzImk3bm0vYzdwOGVpOkpPNVg3bmthLDpKUChyN3A4ZWk5MkBsUjduR0k4Nzg/Zk03b19CRjdubGxcODQ+PSk3OD9OQzdvX0I2OFFlWWU3cC5USDtiXkZvN3AuWjo5aSIpVzduR0koOkpQKHI3cDhlaTloZU1lOWkzXTc4UFc1UTdwLlc5OTIvI1g5aTUocThOZjQi
