@@ -1,0 +1,2 @@
+Hint 3:
+The President is quite new to ciphers, so he was only able to encrypt the alphabetical characters.
