@@ -1,0 +1,24 @@
+Ideally the students shouldn't have access to the html file because it's a lot easier to find the flags that way.
+
+Out of the three flag pieces (keys), one can be found directly on the page while the other two can only be found by inspecting the HTML code
+
+Key #1
+Pretty easy, found in the 'piece' attribute of a fake element above the <head> tag.
+The key is RTk_nu
+
+Key #2
+This is the only one that can be found directly on the website, but it's slightly easier to find it by inspecting the HTML code.
+In one of the long chunks of 'DONALD TRUMP' texts, one of the letters is slightly tinted blue.
+By clicking on it, a javascript alert is triggered, displaying the second key on screen.
+The key is VF1jgn
+
+Key #3
+One of the image sources is broken (fifth), because the final key is hidden in the middle of the 'src' attribute of it.
+The key is C{m0_}
+
+Combining the keys:
+Each key only contains a part of the full flag. This is how to obtain the flag:
+First char of first key + first char of second key + first char of third key +
+Second char of first key + second char of second key + second char of third key + ...
+
+By using this process to piece together the flag, you'll get: RVCTF{k1m_j0ng_un}
