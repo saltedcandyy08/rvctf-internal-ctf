@@ -1,0 +1,3 @@
+My friend bets 5000vbucks that I would not be able to find the topic of the website waitbutwhy.com on the 3rd of Feb 2016. Unfortunately, I know you, help me out here, won't you? Wrap your flag in RVCTF{...}
+
+Flag: RVCTF{Horizontal_History}
