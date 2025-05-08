@@ -1,0 +1,4 @@
+Our RVCTF Armed Forces just invaded North Korea and found their way into Kim Jong Un's bedroom!
+They found this suspicious USB drive labelled: "KIM'S SUPER SECRET FLAG ENCRYPTOR"
+Obviously it can't be that good because Kim Jong Un is a bit of a dumbass, so they bring this USB drive to you since you're the only one smart enough to crack this fatty's code.
+On it, you find a python script called "encryptor.py" and a text file called "output.txt"

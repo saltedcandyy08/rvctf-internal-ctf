@@ -1,0 +1,6 @@
+The RVCTF intelligence agency has just sent you on a mission to the country of France to find a lost treasure that archaeologists have been searching for for centuries.
+However, unbeknownst to the others, you were sent a clue by the President of France himself to help you find the treasure (under the condition that you share 45.9% of it with him).
+
+Here's the clue: vhots{oro3d_tj3_v1ts3p_f0i3r}
+
+He's also given you some hints to help you find it, but only use them if you need it!
