@@ -1,0 +1,1 @@
+you might need to use burpsuite to craft a POST request "file:" to find the admin.php, and then gopher URL from your browser with all the right headers and cookies!

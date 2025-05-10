@@ -17,10 +17,10 @@
 <body>
 <div class="kingdom">
     <h2>🏰 Castle Portal 🏰</h2>
-    <img class="castle-img" src="https://cdn.pixabay.com/photo/2013/07/12/18/39/castle-40415_1280.png" alt="Castle">
+    <img class="castle-img" src="https://hips.hearstapps.com/hmg-prod/images/bojnice-castle-1603142898.jpg" alt="Castle">
     <div class="form-area">
         <form method="GET">
-            <input type="text" name="id" placeholder="User ID (try a number)" /><br>
+            <input type="text" name="id" placeholder="User" /><br>
             <input type="password" name="password" placeholder="Password" /><br>
             <button type="submit" class="btn">Enter the Castle</button>
         </form>

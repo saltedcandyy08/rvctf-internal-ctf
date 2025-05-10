@@ -1,0 +1,5 @@
+CREATE DATABASE IF NOT EXISTS gopherdb;
+USE gopherdb;
+CREATE TABLE IF NOT EXISTS flag (flagval VARCHAR(100));
+DELETE FROM flag;
+INSERT INTO flag VALUES ('RVCTF{Only_Gophers_Can_Admin}');
