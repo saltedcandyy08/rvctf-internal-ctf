@@ -1,7 +1,7 @@
 Category: Forensics
-Title: Stego PNG
+Title: White PNG
 Description:
 This PNG file looks so white and normal (and it is)
 
 Flag format: RVCTF{...}
-Files: stego.png
+Files: white.png

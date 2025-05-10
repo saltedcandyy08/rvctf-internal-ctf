@@ -1,0 +1,1 @@
+Hint: The attackers obfuscated the flag with a simple XOR. Try brute-forcing common 1-byte XORs.
